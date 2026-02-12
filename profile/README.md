@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![cover](https://raw.githubusercontent.com/pomponchik/.github/cover.jpg)
+![cover](https://raw.githubusercontent.com/mutating/.github/cover.jpg)
